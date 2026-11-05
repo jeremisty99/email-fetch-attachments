@@ -1,0 +1,10 @@
+{
+  "_comment": "字段对照示例，全部为占位值。脚本不读取本文件：真实凭据请用环境变量 MAIL_* 传入，避免落盘。",
+  "address": "you@example.com",
+  "auth_code": "<CLIENT_AUTHORIZATION_CODE>",
+  "imap_host": "imap.example.com",
+  "imap_port": 993,
+  "pop_host": "pop.example.com",
+  "pop_port": 995,
+  "proto": "imap"
+}
